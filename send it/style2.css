@@ -82,3 +82,22 @@ div.app div.head
     background-color: #29abe2; /* Green */
     color: white;
 }
+.fas.fa-align-justify{
+  margin-left: 20px;
+    font-size: 20px;
+    color: white;
+    float: left;
+    margin-top: 13px;
+    text-decoration: none;
+
+}
+.fas.fa-user-circle
+{
+  margin-right: 20px;
+    font-size: 20px;
+    color: white;
+    float: right;
+    margin-top: 13px;
+    text-decoration: none;
+
+}

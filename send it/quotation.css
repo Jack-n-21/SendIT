@@ -233,4 +233,23 @@ parcel creation.css:98
 .bodycontent2 h2{
   color:#29abe2;
 }
+.fas.fa-align-justify{
+  margin-left: 20px;
+    font-size: 20px;
+    color: white;
+    float: left;
+    margin-top: 13px;
+    text-decoration: none;
+
+}
+.fas.fa-user-circle
+{
+  margin-right: 20px;
+    font-size: 20px;
+    color: white;
+    float: right;
+    margin-top: 13px;
+    text-decoration: none;
+
+}
 
